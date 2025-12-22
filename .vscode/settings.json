@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true,
+        "**/.mypy_cache": true,
+        "**/bin": true,
+        "**/include": true,
+        "**/lib64": true,
+        "**/lib": true,
+        "pyvenv.cfg": true
+    }
+}
