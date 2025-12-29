@@ -1,0 +1,1 @@
+DATABASE_URL = 'postgresql://apiuser:apiuser@localhost/analytics'
